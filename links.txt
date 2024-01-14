@@ -1,0 +1,1 @@
+postgresql://dheeraj.anumala:8cdsNLFWKe3t@ep-mute-brook-91808138.us-east-2.aws.neon.tech/test?sslmode=require
